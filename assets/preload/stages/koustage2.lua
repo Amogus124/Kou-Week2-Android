@@ -1,6 +1,6 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('observatory', 'koustage', 0, 1000);
+	makeLuaSprite('observatory', 'koustage2', 0, 1000);
 	addLuaSprite('observatory', false)
 	setLuaSpriteScrollFactor('observatory', 0.9, 0.9)
 	close(true)
