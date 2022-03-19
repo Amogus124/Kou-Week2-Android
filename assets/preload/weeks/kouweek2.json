@@ -1,0 +1,48 @@
+{
+	"storyName": "Return to the Observatory",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"kou",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Twinkle",
+			"kou",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lockdown",
+			"gsu",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Quasar",
+			"gsu",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "G.S.U"
+}

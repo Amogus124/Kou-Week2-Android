@@ -1,0 +1,48 @@
+{
+	"storyName": "kepler observation unit",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"kou",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"space boy",
+			"kou",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"cosmic",
+			"kou",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"k.o.u",
+			"kou",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "K.O.U"
+}
